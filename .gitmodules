@@ -1,0 +1,3 @@
+[submodule "datasources/datasource-iamrole-ec2-attach"]
+	path = datasources/datasource-iamrole-ec2-attach
+	url = https://github.com/KandasamyMurugan/hashicorp-terraform-certificaion-preparation.git
